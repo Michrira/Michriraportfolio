@@ -13,6 +13,10 @@ body {}
 
 footer {}
 
+.headshot {
+    background-image: url(image directory);
+}
+
 @media screen and (max-width: 992px) {
 }
 
