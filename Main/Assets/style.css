@@ -1,6 +1,6 @@
 * {
-    border: 3px solid black; 
     box-sizing: border-box;
+    border: 3px solid black;
     margin: 0 auto;
     padding: 2.5px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -8,18 +8,12 @@
 }
 
 body {
-    background-image: url("./assets/2075.jpeg");
+    background: url("./20751.jpeg");
     background-size: cover;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: aqua;
-    height: 100vh;
-    margin: 0;
 }
 
 .container {
-    width: 100%;
     max-width: 1200px;
-    margin: 0 auto;
     padding: 20px;
 }
 
@@ -42,7 +36,6 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none;
-    color: inherit;
 }
 
 main {
@@ -59,7 +52,6 @@ main img {
 }
 
 .contain {
-    width: 100%;
     max-width: 800px;
     padding: 20px;
 }
@@ -73,23 +65,14 @@ h1 {
     margin-bottom: 20px;
 }
 
-h2 {
+h2, h3 {
     font-size: 24px;
-    margin-bottom: 10px;
-}
-
-h3 {
-    font-size: 20px;
     margin-bottom: 10px;
 }
 
 p {
     line-height: 1.5;
     margin-bottom: 20px;
-}
-
-pre {
-    font-family: inherit;
 }
 
 footer {
