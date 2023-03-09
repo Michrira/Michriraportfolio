@@ -82,35 +82,40 @@ nav ul li a {
 
 .image-container {
     display: flex;
-    flex-wrap: center;
-    justify-content: center;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-top: 20px;
 }
 
 .top-image {
     width: 100%;
+    max-width: 100px;
 }
 
-.bottom-images {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
+.bottom-image {
+    width: 50%;
+    max-width: 400px;
+    margin-top: 20px;
+}
+
+.small-images {
+    width: calc(50% - 10px);
+    margin-top: 20px;
+}
+
+.small-images img {
     width: 100%;
-    max-width: 800px; 
-    margin-top: 20px; 
+    max-width: 180px;
+    margin-bottom: 10px;
 }
 
-.row {
-    display: flex;
-    justify-content: center;
-    margin-bottom: 20px; 
+.bottom-image img {
     width: 100%;
+    margin-bottom: 20px;
 }
 
-.row a img {
-    display: block;
-    margin: 0;
-    max-width: 190% 
-}
+
 
 #contact-links li {
     list-style-type: none;
