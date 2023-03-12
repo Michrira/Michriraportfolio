@@ -33,7 +33,3 @@ N/A
 This is a snippet of how the webpage should look and operate 
 
 ## Deployed area link:
-
-![Screenshot 2023-03-08 233818](https://user-images.githubusercontent.com/126362926/223952946-5789891a-b2e1-48e9-bab8-fd0dc57eda3f.png)
-
-![Screenshot 2023-03-08 233532](https://user-images.githubusercontent.com/126362926/223952955-87bdf7c4-f0b6-4d7d-9b75-fcd2b69447d8.png)
