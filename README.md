@@ -32,6 +32,11 @@ N/A
 
 This is a snippet of how the webpage should look and operate 
 
+![Screenshot 2023-03-12 162417](https://user-images.githubusercontent.com/126362926/224580430-aa029713-de9c-4ff8-b0f2-e6c35ceff8f1.png)
+![Screenshot 2023-03-12 162452](https://user-images.githubusercontent.com/126362926/224580434-7274b84c-dcce-419f-8b36-075a079f9b1f.png)
+![Screenshot 2023-03-12 162530](https://user-images.githubusercontent.com/126362926/224580435-df3cd7fd-b40e-422a-a088-d2b4659bef81.png)
+
+
 ## Deployed area link:
 https://michrira.github.io/Michriraportfolio/
 
