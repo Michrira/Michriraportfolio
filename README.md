@@ -33,3 +33,6 @@ N/A
 This is a snippet of how the webpage should look and operate 
 
 ## Deployed area link:
+https://michrira.github.io/Michriraportfolio/
+
+https://github.com/Michrira/Michriraportfolio.git
