@@ -1,3 +1,4 @@
+/*css for my universal selector*/
 * {
   box-sizing: border-box;
   margin: 0 auto;
@@ -5,17 +6,17 @@
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: aqua;
 }
-
+/*css for my body (my background image*/
 body {
   background: url('./20751.JPEG');
   background-size: cover;
 }
-
+/*css for my main image*/
 #main-page {
   max-width: 90%;
   background-color: #333;
 }
-
+/*css for my header and my h2, can I have multiple h2 elements? I don't see why not...*/
 header {
   display: flex;
   justify-content: space-between;
@@ -34,7 +35,7 @@ h2 {
   padding: 15px;
   text-decoration: underline;
 }
-
+/*css for my navs*/
 nav ul {
   display: flex;
   list-style: none;
@@ -47,13 +48,14 @@ nav ul li {
 nav ul li a {
   text-decoration: none;
 }
-
+/*css for my main*/
 main {
   max-width: 80%;
   margin: 10px 10%;
   text-align: center;
 }
 
+/*css for my images and about me h2 section*/
 #about img {
   margin-bottom: 10px;
   max-width: 50%;
@@ -86,9 +88,13 @@ main {
   margin-top: 20px;
 }
 
+
+/*css for my contact links*/
 #contact-links li {
   list-style-type: none;
 }
+
+/*css for my footer*/
 
 footer {
   display: flex;
@@ -99,4 +105,3 @@ footer {
   border-top: 3px outset black;
 }
 
-/* 
